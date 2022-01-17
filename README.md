@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bendiknh
 - 👀 I’m interested in optimization
 - 🌱 I’m currently learning optimization using Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mail - bendiknh@gmail.com
 
 <!---
